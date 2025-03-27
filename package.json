@@ -1,0 +1,14 @@
+{
+	"name": "set-translate-no-attribute",
+	"version": "1.0.0",
+	"description": "Chrome extension to set translate=no on code and pre tags",
+	"scripts": {
+		"build": "tsc",
+		"watch": "tsc -w"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "1.9.4",
+		"@types/chrome": "^0.0.254",
+		"typescript": "^5.0.0"
+	}
+}
