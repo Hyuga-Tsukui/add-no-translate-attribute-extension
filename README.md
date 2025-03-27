@@ -1,6 +1,6 @@
 # Set Translate No Attribute
 
-<img src="no-translate.png" alt="Extension Icon">
+<img src="no-translate.png" width="128" height="128" alt="Extension Icon">
 
 A Chrome extension that automatically sets the `translate="no"` attribute on `<code>` and `<pre>` elements to prevent automatic translation of code snippets.
 
